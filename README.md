@@ -5,7 +5,7 @@ This is the repo for the Question Answering project developed by the following s
  - Sri Rama Karthikeya Lanka (karthiklanka19@msitprogram.net)
  - Leela Venkat Sai Anaparthi (karthiklanka19@msitprogram.net)
  - Prathima Avula (prathima.avula@msitprogram.net)
- - Makireddy Avinash Reddy (prathima.avula@msitprogram.net)
+ - Makireddy Avinash Reddy (avimakireddy@msitprogram.net)
  - Sai Venkata Srinath Erramilli (srinath.esv@msitprogram.net)
  - Nikhil Chowdary Linga (nikhillinga670@msitprogram.net)
  - Vishwaja Meddela (nikhillinga670@msitprogram.net)
