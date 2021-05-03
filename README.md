@@ -8,7 +8,7 @@ This is the repo for the Question Answering project developed by the following s
  - Makireddy Avinash Reddy (avimakireddy@msitprogram.net)
  - Sai Venkata Srinath Erramilli (srinath.esv@msitprogram.net)
  - Nikhil Chowdary Linga (nikhillinga670@msitprogram.net)
- - Vishwaja Meddela (nikhillinga670@msitprogram.net)
+ - Vishwaja Meddela (vishwajameddela18@msitprogram.net)
 
 # Components of the system
 
