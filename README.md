@@ -3,7 +3,7 @@ This is the repo for the Question Answering project developed by the following s
 
  - Divya Parvatala (divyaparvatala@msitprogram.net)
  - Sri Rama Karthikeya Lanka (karthiklanka19@msitprogram.net)
- - Leela Venkat Sai Anaparthi (karthiklanka19@msitprogram.net)
+ - Leela Venkat Sai Anaparthi (primelalith@msitprogram.net)
  - Prathima Avula (prathima.avula@msitprogram.net)
  - Makireddy Avinash Reddy (avimakireddy@msitprogram.net)
  - Sai Venkata Srinath Erramilli (srinath.esv@msitprogram.net)
