@@ -20068,6 +20068,27 @@
             "keyStrokeTimeStamp": "Fri May 07 2021 10:30:19",
             "keyStrokeInfo": "0",
             "position": "11,10"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri May 07 2021 10:57:17",
+            "keyStrokeInfo": "",
+            "position": "11,9"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri May 07 2021 10:57:19",
+            "keyStrokeInfo": "1",
+            "position": "11,9"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri May 07 2021 10:57:20",
+            "keyStrokeInfo": "0",
+            "position": "11,10"
         }
     ],
     "parsed_data.txt": [
