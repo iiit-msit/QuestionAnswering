@@ -1,5 +1,9 @@
 import codecs
-f=codecs.open("/Users/srinathesv/Desktop/a1.htm", 'r')
+#f=codecs.open("/Users/srinathesv/Desktop/a1.htm", 'r')
+fname = input("Enter the location of the file (without extension) :")
+file = open(fname, "a")
+
+f=codecs.open(fname+".html", 'r')
 
 from bs4 import BeautifulSoup
 
